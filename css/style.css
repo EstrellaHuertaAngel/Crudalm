@@ -1,0 +1,21 @@
+/* Estilo para el fondo del encabezado de la tarjeta */
+.card-header {
+    background-color: #007bff; /* Cambia el color de fondo */
+    color: #fff; /* Cambia el color del texto */
+}
+
+/* Estilo para el texto del cuerpo de la tarjeta */
+.card-body {
+    font-size: 16px; /* Cambia el tamaño del texto */
+}
+
+/* Estilo para el botón */
+.btn-primary {
+    background-color: #28a745; /* Cambia el color de fondo del botón */
+    border-color: #28a745; /* Cambia el color del borde del botón */
+}
+
+.btn-primary:hover {
+    background-color: #218838; /* Cambia el color de fondo del botón al pasar el mouse */
+    border-color: #218838; /* Cambia el color del borde del botón al pasar el mouse */
+}
